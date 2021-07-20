@@ -5,15 +5,15 @@
   
 - 💻 A 3rd year Computer Science major.  
 
-- 🧪 Tinkering with web technologies, currently building awesome stuff with NextJS.  
+- 🧪 Tinkering with web technologies, currently building awesome stuff with [NextJS](https://nextjs.org/).  
 
-- ☁️ In an exciting relationship with cloud engineering, obsessed with AWS.  
+- ☁️ In an exciting relationship with cloud engineering, obsessed with [AWS](https://aws.amazon.com/).  
 
 - 💡.(🎮) Full time thinker and part-time nerd.  
 
-- 🤖🦾 TitanFall 2 remains the best FPS game ever released.  
+- 🤖🦾 [TitanFall 2](https://www.ea.com/en-gb/games/titanfall/titanfall-2) remains the best FPS game ever released.  
 
-<br/>  
+<br/>
 
 
 ## Current Skill Set
