@@ -65,6 +65,10 @@
 <br/>  
 
 
+### Spotify Stats
+[![spotify-github-profile](http://localhost:3000/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
 ## Github Stats
 <hr/>
 <br/>
