@@ -66,7 +66,7 @@
 
 
 ### Spotify Stats
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=Natemoo)](https://open.spotify.com/user/1l3k7yrdl4db79q1vxzjyz6au)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=default)](https://open.spotify.com/user/1l3k7yrdl4db79q1vxzjyz6au)
 
 
 ## Github Stats
