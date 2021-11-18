@@ -65,11 +65,11 @@
 <br/>  
 
 
-### Spotify Stats
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=default)](https://open.spotify.com/user/1l3k7yrdl4db79q1vxzjyz6au)
+### Currently Listening To
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1l3k7yrdl4db79q1vxzjyz6au)
 
 
-## Github Stats
+## Contribution Stats
 <hr/>
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=techiejossy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
