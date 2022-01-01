@@ -25,7 +25,7 @@
 ## Top Languages
 <hr/>
 <br/>
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieJossy&layout=compact)](https://github.com/TechieJossy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechieJossy&layout=compact)](https://github.com/TechieJossy)
 
 
 ### 🎧 Currently Vibing To
