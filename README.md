@@ -1,9 +1,9 @@
-### <div align="center">Hello there 👋🏽</div>  
+### <div align="center">Hey there 👋🏽</div>  
   
 
 - 🙎🏽‍♂️ I'm Joseph David.  
   
-- 💻 Computer Science major.  
+- 💻 CS major.  
 
 - 🧪 Tinkering with web technologies, currently building awesome stuff with [NextJS](https://nextjs.org/).  
 
