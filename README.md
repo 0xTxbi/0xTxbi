@@ -7,9 +7,7 @@
 
 - ☁️ In an exciting relationship with cloud engineering, building 💩 with [AWS](https://aws.amazon.com/).  
 
-- 💡.(🎮) Full time thinker and part-time nerd.  
-
-- 🤖🦾 [TitanFall 2](https://www.ea.com/en-gb/games/titanfall/titanfall-2) remains the best FPS game ever.  
+- 💡.(🎮) Full time thinker and part-time nerd.
 
 <br/>
 
