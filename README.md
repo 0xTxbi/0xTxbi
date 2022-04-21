@@ -27,6 +27,6 @@
 
 
 ### 🎧 Currently Listening To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1l3k7yrdl4db79q1vxzjyz6au)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1l3k7yrdl4db79q1vxzjyz6au&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
 
 
