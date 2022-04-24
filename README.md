@@ -1,8 +1,8 @@
 - 💻 CS major.  
 
-- 🧪 Tinkering with web technologies, currently building awesome stuff with [NextJS](https://nextjs.org/).  
+- 🧪 Tinkering with web technologies, crafting stuff with [NextJS](https://nextjs.org/).  
 
-- ☁️ In an exciting relationship with cloud engineering, building 💩 with [AWS](https://aws.amazon.com/).  
+- ☁️ cloud engineering, building 💩 with [AWS](https://aws.amazon.com/).  
 
 - 💡.(🎮) Full time thinker and part-time nerd.
 
