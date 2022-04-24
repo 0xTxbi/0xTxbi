@@ -1,10 +1,10 @@
 - 💻 CS major.  
 
-- 🧪 Tinkering with web technologies, crafting stuff with [NextJS](https://nextjs.org/).  
+- 🧪 tinkering with web technologies, crafting stuff with [NextJS](https://nextjs.org/).  
 
 - ☁️ cloud engineering, building 💩 with [AWS](https://aws.amazon.com/).  
 
-- 💡.(🎮) Full time thinker and part-time nerd.
+- 💡.(🎮) full time thinker and part-time nerd.
 
 <br/>
 
