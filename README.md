@@ -1,8 +1,10 @@
-- 💻 CS major.  
+- 💻 CS major.
+
+- 🤹🏽‍♂️ multifaceted. 
 
 - 🧪 tinkering with web technologies, crafting stuff with [NextJS](https://nextjs.org/).  
 
-- ☁️ cloud engineering, building 💩 with [AWS](https://aws.amazon.com/).  
+- ☁️ cloud engineering, building 💩 with AWS, Azure, GCP.  
 
 - 💡.(🎮) full time thinker and part-time nerd.
 
