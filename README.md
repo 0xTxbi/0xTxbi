@@ -2,29 +2,20 @@
 
 - 🤹🏽‍♂️ multifaceted. 
 
-- 🧪 tinkering with web technologies, crafting stuff with [NextJS](https://nextjs.org/).  
+- 🧪 tinkering with web technologies, crafting stuff with NextJS.
 
-- ☁️ cloud engineering, building 💩 with AWS, Azure, GCP.  
+- ☁️ cloud engineering, building 💩 with AWS, Azure, and GCP.  
 
-- 💡.(🎮) full time thinker and part-time nerd.
+- 💡.(🎮) full-time thinker and part-time nerd.
 
 <br/>
 
 
 ## 📈 Contribution Stats
-<hr/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=0xTxbi&show_icons=true&count_private=true&hide_border=true&theme=radical" /> 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xTxbi&theme=react&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
 
-<!-- ## Top Languages
-<hr/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## 🎧 Currently Listening To
-<hr/>
-<br/>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1l3k7yrdl4db79q1vxzjyz6au&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
