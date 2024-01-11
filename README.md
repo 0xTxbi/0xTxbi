@@ -1,4 +1,4 @@
-# 👨‍💻 Experienced Product-Oriented Full-Stack Software Engineer
+# Experienced Product-Oriented Full-Stack Software Engineer
 
 Obsessed with and always building impactful applications.
 
