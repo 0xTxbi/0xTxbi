@@ -1,5 +1,21 @@
 experienced product-oriented full-stack software engineer. obsessed with, and always building impactful applications.
 
+
+## Featured Projects
+
+### [Arbitra Pulse Explorer](https://github.com/0xTxbi/arbitra-pulse-explorer)
+an intuitive interface for exploring stock sentiments efficiently.
+- [Live Site](https://arbitra-pulse-explorer.vercel.app)
+
+### [Arbitra Pulse: Stock Sentiment Analysis API](https://github.com/0xTxbi/arbitra-pulse)
+a robust Stock Sentiment Analysis API comprising multiple microservices tailored to provide real-time stock information, sentiment analysis, and personalized user experiences.
+- [API Docs](#)
+
+### [PantheonProbe](https://github.com/0xTxbi/pantheon-probe)
+PantheonProbe is a network diagnostic tool that offers comprehensive insights into your network performance. Built in Rust 🦀.
+- [Install Package](https://crates.io/crates/pantheon-probe)
+
+
 <br/>
 
 
