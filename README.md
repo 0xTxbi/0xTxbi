@@ -13,8 +13,8 @@ Obsessed with and always building impactful applications.
 | [PantheonProbe](https://github.com/0xTxbi/pantheon-probe) | a network diagnostic tool that offers comprehensive insights into your network performance. Built with Rust 🦀. | [Install Package](https://crates.io/crates/pantheon-probe) |
 
 ## 📈 Contribution Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=0xTxbi&theme=react&hide_border=true&border_radius=2.5)](https://github.com/0xTxbi)
+  
+<img title="0xTxbi's GitHub Stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=0xTxbi&theme=react&hide_border=true"/>
 
 ## 🎧 Currently Listening To
 
