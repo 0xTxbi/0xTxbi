@@ -8,6 +8,7 @@ Obsessed with and always building impactful applications.
 | --- | --- | --- |
 | [Arbitra Pulse: Stock Sentiment Analysis API](https://github.com/0xTxbi/arbitra-pulse) | a robust Stock Sentiment Analysis API with multiple microservices, providing real-time stock information, sentiment analysis, and personalized user experiences. | [Explore Endpoints](https://github.com/0xTxbi/arbitra-pulse) |
 | [Arbitra Pulse Explorer](https://github.com/0xTxbi/arbitra-pulse-explorer) | a seamless, user-friendly experience for diving into stock sentiments and related data. | [Live Site](https://arbitra-pulse-explorer.vercel.app) |
+| [OctoPlay](https://github.com/0xTxbi/OctoPlay) | an easy-to-use Spotify analytics app for music enthusiasts. | [Live Site](https://octo-play-git-v2-0xtxbi.vercel.app) |
 | [QuantScrape](https://github.com/0xTxbi/QuantScrape) | my AI-enhanced financial data extraction API for quantitative analysis. Built with Python. | [Explore Endpoints](https://quantscrape.fly.dev) |
 | [PantheonProbe](https://github.com/0xTxbi/pantheon-probe) | a network diagnostic tool that offers comprehensive insights into your network performance. Built with Rust 🦀. | [Install Package](https://crates.io/crates/pantheon-probe) |
 
