@@ -1,6 +1,6 @@
 # Experienced Product-Oriented Full-Stack Software Engineer
 
-Obsessed with and always building impactful applications.
+Obsessed with and always building impactful products.
 
 ## 🚀 Featured Projects
 
