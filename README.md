@@ -6,7 +6,7 @@ Obsessed with and always building high-impact products.
 
 | Name | Synopsis | Links |
 | --- | --- | --- |
-| [Arbitra Pulse: Stock Sentiment Analysis API](https://github.com/0xTxbi/arbitra-pulse) | an API for real-time insights into stock sentiment leveraging a microservices paradigm for scalable, personalized user interactions. | [Documentation](https://arbitra-pulse-docs.vercel.app) |
+| [Arbitra Pulse](https://github.com/0xTxbi/arbitra-pulse) | an API for real-time insights into stock sentiment leveraging a microservices paradigm for scalable, personalized user interactions. | [Documentation](https://arbitra-pulse-docs.vercel.app) |
 | [Arbitra Pulse Explorer](https://github.com/0xTxbi/arbitra-pulse-explorer) | a seamless, user-friendly experience for diving into stock sentiments and related data. | [Live Site](https://arbitra-pulse-explorer.vercel.app) |
 | [OctoPlay](https://github.com/0xTxbi/OctoPlay) | explore deep musical insights through a seamless, feature-rich experience. | [Live Site](https://octo-play-git-v2-0xtxbi.vercel.app) |
 | [QuantScrape](https://github.com/0xTxbi/QuantScrape) | an AI-driven API for extracting and analyzing financial data, employing Python for sophisticated quantitative analysis. | [Explore Endpoints](https://quantscrape.fly.dev) |
