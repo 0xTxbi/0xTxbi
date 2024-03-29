@@ -1,16 +1,16 @@
-# Experienced Product-Oriented Full-Stack Software Engineer
+# Seasoned Product-Oriented Software Engineer
 
-Obsessed with and always building impactful products.
+Obsessed with and always building high-impact products.
 
 ## 🚀 Featured Projects
 
 | Name | Synopsis | Links |
 | --- | --- | --- |
-| [Arbitra Pulse: Stock Sentiment Analysis API](https://github.com/0xTxbi/arbitra-pulse) | a robust Stock Sentiment Analysis API with multiple microservices, providing real-time stock information, sentiment analysis, and personalized user experiences. | [Explore Docs](https://arbitra-pulse-docs.vercel.app) |
+| [Arbitra Pulse: Stock Sentiment Analysis API](https://github.com/0xTxbi/arbitra-pulse) | an API for real-time insights into stock sentiment leveraging a microservices paradigm for scalable, personalized user interactions. | [Documentation](https://arbitra-pulse-docs.vercel.app) |
 | [Arbitra Pulse Explorer](https://github.com/0xTxbi/arbitra-pulse-explorer) | a seamless, user-friendly experience for diving into stock sentiments and related data. | [Live Site](https://arbitra-pulse-explorer.vercel.app) |
-| [OctoPlay](https://github.com/0xTxbi/OctoPlay) | an easy-to-use Spotify analytics app for music enthusiasts. | [Live Site](https://octo-play-git-v2-0xtxbi.vercel.app) |
-| [QuantScrape](https://github.com/0xTxbi/QuantScrape) | my AI-enhanced financial data extraction API for quantitative analysis. Built with Python. | [Explore Endpoints](https://quantscrape.fly.dev) |
-| [PantheonProbe](https://github.com/0xTxbi/pantheon-probe) | a network diagnostic tool that offers comprehensive insights into your network performance. Built with Rust 🦀. | [Install Package](https://crates.io/crates/pantheon-probe) |
+| [OctoPlay](https://github.com/0xTxbi/OctoPlay) | explore deep musical insights through a seamless, feature-rich experience. | [Live Site](https://octo-play-git-v2-0xtxbi.vercel.app) |
+| [QuantScrape](https://github.com/0xTxbi/QuantScrape) | an AI-driven API for extracting and analyzing financial data, employing Python for sophisticated quantitative analysis. | [Explore Endpoints](https://quantscrape.fly.dev) |
+| [PantheonProbe](https://github.com/0xTxbi/pantheon-probe) | network diagnostic tool built with Rust 🦀, offering unparalleled insights into network performance. | [Install Package](https://crates.io/crates/pantheon-probe) |
 
 ## 📈 Contribution Stats
   
